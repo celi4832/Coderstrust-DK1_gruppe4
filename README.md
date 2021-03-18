@@ -4,7 +4,7 @@
 
 #For running this program it is expected, the user has downloaded MySQL Workbench.
 
-#1 After downloading the SQL files 
+#What to do after downloading the SQL files: 
 #It is essential that you run the sql. files in the correct order. The files can be found on Github under Coderstrust-DK1_Gruppe4.
   #1: Run the CodersTrust_DDL.sql
   #2: Run the CodersTrust_DML.sql
